@@ -1,0 +1,65 @@
+
+/*container1*/
+.container1{
+	background: #FF5733;
+}
+/*Titulo de la pagina*/
+.styh1{
+	padding-top:2%;
+	padding-bottom: 2%;
+	padding-left: 4%;
+	color: black;
+	font-weight: bold;
+	font-size: 40px;
+	font-family: arial black;
+}
+
+/*Unica imagen*/
+.logo{
+	height:110px;
+	width: 100%;	
+	padding-left:30%;	
+}
+
+/*container2*/
+.contaniner2{
+
+	margin-top: 3%;
+	padding-left: 4% !important;
+}
+
+
+/*Titulo del cuadro*/
+.ilustracion{
+	width: 620px;
+	height: 445px;
+	border: 5px solid orange ;
+}
+
+
+/*buttonfor estilos de espaion*/
+
+.buttonfor{
+	margin-top:2%;
+}
+
+
+.form-codigo{
+	font-family: arial;
+}
+
+.control-label{
+	font-family: arial black;
+}
+
+.form-group{
+	font-family: arial black;
+}
+
+.buttonfor{
+	font-family: arial black;
+}
+
+body{
+	background: url("http://3.bp.blogspot.com/_a5mK001oySU/TSRFdi5iYJI/AAAAAAAAu5Y/WUP1-1Ft4_U/s1600/Paper3.jpg");
+}
